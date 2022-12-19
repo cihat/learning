@@ -1,0 +1,33 @@
+{
+  "name": "array-methods",
+  "version": "1.0.0",
+  "description": "The code examples here are taken from the MDN web docs.",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "ts-node index.ts",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cihat-salik/learning.git"
+  },
+  "keywords": [
+    "learn",
+    "learning",
+    "JavaScript",
+    "array-methods"
+  ],
+  "author": "Cihat Salik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cihat-salik/learning/issues"
+  },
+  "homepage": "https://github.com/cihat-salik/learning#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.17",
+    "tslib": "^2.4.1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}

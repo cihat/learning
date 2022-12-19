@@ -1,0 +1,3 @@
+[submodule "languages/JavaScript/react"]
+	path = languages/JavaScript/react
+	url = git@github.com:cihat-salik/react.git
