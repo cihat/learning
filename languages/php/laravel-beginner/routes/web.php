@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HelloController;
+use App\Http\Controllers\ServiceController;
+use App\Http\Controllers\WelcomeController;
 
 /*
 |--------------------------------------------------------------------------
@@ -14,8 +16,11 @@ use App\Http\Controllers\HelloController;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', [WelcomeController::class, 'index']);
 
-Route::get('/hello', [HelloController::class, 'index']);
+Route::get('/about', [HelloController::class, 'about']);
+// Route::view('/about', 'about');
+
+Route::get('/service', [ServiceController::class, 'index']);
+Route::post('/service', [ServiceController::class, 'store']);
+// Route::view('/services', 'services');
