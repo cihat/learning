@@ -1,3 +1,3 @@
 # devops
 
-<!-- coming soon... -->
+coming soon...

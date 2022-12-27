@@ -1,3 +1,3 @@
 # frontend
 
-<!-- coming soon... -->
+coming soon...

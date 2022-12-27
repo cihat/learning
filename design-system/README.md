@@ -1,3 +1,3 @@
 # design-system
 
-<!-- coming soon... -->
+coming soon...

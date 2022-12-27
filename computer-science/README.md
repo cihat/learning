@@ -1,3 +1,3 @@
 # computer-science
 
-<!-- coming soon... -->
+coming soon...
