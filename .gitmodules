@@ -1,3 +1,3 @@
-[submodule "languages/JavaScript/react"]
-	path = languages/JavaScript/react
+[submodule "frontend/JavaScript/react"]
+	path = frontend/JavaScript/react
 	url = git@github.com:cihat-salik/react.git
