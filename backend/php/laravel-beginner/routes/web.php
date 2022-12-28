@@ -5,6 +5,8 @@ use App\Http\Controllers\HelloController;
 use App\Http\Controllers\ServiceController;
 use App\Http\Controllers\WelcomeController;
 use App\Http\Controllers\CustomerController;
+use App\Mail\WelcomeMail;
+use Illuminate\Support\Facades\Mail;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,7 +19,11 @@ use App\Http\Controllers\CustomerController;
 |
 */
 
-Route::get('/', [WelcomeController::class, 'index']);
+// Route::get('/email', function () {
+//     Mail::to('cihat02020202@gmail.com')->send(new WelcomeMail);
+
+//     return new WelcomeMail();
+// });
 
 Route::get('/about', [HelloController::class, 'about']);
 // Route::view('/about', 'about');
