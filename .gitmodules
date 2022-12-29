@@ -1,6 +1,3 @@
-[submodule "frontend/JavaScript/react/source-code"]
-	path = frontend/JavaScript/react/source-code
-	url = git@github.com:cihat-salik/react.git
 [submodule "backend/php/projects/laravel-6-questionnaire"]
 	path = backend/php/projects/laravel-6-questionnaire
 	url = git@github.com:coderstape/laravel-6-questionnaire.git
