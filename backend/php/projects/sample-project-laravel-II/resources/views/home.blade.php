@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    {{ __('You are logged in!') }}
+                    <a href="/questionnaires/create" class="btn btn-dark">Create New questionnaires</a>
                 </div>
             </div>
         </div>
