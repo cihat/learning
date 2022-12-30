@@ -4,3 +4,9 @@
 [submodule "backend/php/projects/library-management-system"]
 	path = backend/php/projects/library-management-system
 	url = git@github.com:tauseedzaman/Laravel-library-management-system.git
+[submodule "computer-science/learn-cpp/examples"]
+	path = computer-science/learn-cpp/examples
+	url = git@github.com:tridibsamanta/CPP_Beginner_to_Expert.git
+[submodule "computer-science/learn-cpp/cpp-programming"]
+	path = computer-science/learn-cpp/cpp-programming
+	url = git@github.com:Rustam-Z/cpp-programming.git
