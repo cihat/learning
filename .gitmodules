@@ -10,3 +10,6 @@
 [submodule "computer-science/learn-cpp/cpp-programming"]
 	path = computer-science/learn-cpp/cpp-programming
 	url = git@github.com:Rustam-Z/cpp-programming.git
+[submodule "frontend/JavaScript/interview-questions"]
+	path = frontend/JavaScript/interview-questions
+	url = git@cihat-salik.github.com:BomBoch/javascript-interview-questions.git
