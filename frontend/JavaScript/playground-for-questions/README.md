@@ -17,9 +17,7 @@ JavaScript Questions
 15. Cookie, Session ve Local Storage arasindaki farklar nedir ?
 16. Tilde ~ operator''u ne ise yarar ? (css'te)
 17. jquery -> $.ready() nasil calisir ?
-18. How to work for-loop with var declaration 
-
-19. What is this code doing? What is the output?
+18. What is this code doing? What is the output?
     ```javascript
     function initButtons() {
       var body = document.body, button;
@@ -59,21 +57,21 @@ JavaScript Questions
 ### TODOs
 - [x] Learn hoisting and closure in JavaScript
 - [ ] Learn how to work `Event Loop` in JavaScript -> [watch this video](https://www.youtube.com/watch?v=8aGhZQkoFbQ&vl=en)
-- [ ] Learn how to work `Asynchronous Programming` in JavaScript
+- [ ] Learn how to work `Asynchronous Programming` in JavaScript -> [read this article](https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/#:~:text=In%20summary%2C%20asynchronous%20programming%20is,async%2Fawait%2C%20and%20promises.), [this MDN doc article](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
 - [ ] Learn inheritince with prototype in JavaScript
 - [ ] Learn inheritince with ES6 classes(syntax) in JavaScript
 - [ ] Learn `this` keyword in JavaScript
 - [ ] Learn `bind`, `call`, `apply` methods in JavaScript
 - [ ] Learn `new` keyword in JavaScript
 - [ ] Learn new ES6 features in JavaScript, [source1-article](https://www.boardinfinity.com/blog/top-10-features-of-es6/#:~:text=ES6%20comes%20with%20significant%20changes,programming%20easier%20and%20more%20fun.), [source2-github-repo](https://github.com/lukehoban/es6features), [source3-w3school](https://www.w3schools.com/js/js_es6.asp)
-- [ ] Learn `Object.create(), Object.assign(), Object.keys(), Object.defineProperty`  [all object methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object) in JavaScript
-- [ ] Learn [all `Array` methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) in JavaScript
-- [ ] And then I will work Browser/Web APIs(DOM, setTimeout, Fetch, Event, Storage, LocalStorage etc.) -> [mdn web docs](https://developer.mozilla.org/en-US/docs/Web/API)
+- [ ] Learn [all Object Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object) like `Object.create(), Object.assign(), Object.keys(), Object.defineProperty` in JavaScript
+- [ ] Learn [all `Array` Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) in JavaScript
+- [ ] And then I will work Browser/Web APIs(DOM, setTimeout, Fetch, Event, Storage, LocalStorage etc.) -> [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/API)
 - [ ] And then I will work on Basic Algorithms and Data Structures with JavaScript
 - [ ] And then I will work on React and React Hooks, State Managment Tools(redux, mobx, context api, etc.)
 - [ ] Read [this article](https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104)
 
-      Topics to cover:
+      Topics to cover in this article:
       1. Value vs. Reference Variable Assignment
       2. Closures(How to work closure(lexical scope) in JS ?)
       3. Destructuring
@@ -86,6 +84,22 @@ JavaScript Questions
       10. Callback Functions
       11. Promises
       12. Async Await
+
+- [ ] Read this article [10 Interview Questions Every JavaScript Developer Should Know from **Eric Elliott**](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+- [ ] Read this article [10 JavaScript concepts you need to know for interviews](https://codeburst.io/10-javascript-concepts-you-need-to-know-for-interviews-136df65ecce)
+- [ ] Review this [javascript-interview-question-repo](https://github.com/BomBoch/javascript-interview-questions/tree/8c689beec7c712d86cdb2e5a40eb6e04c0454a1d)
+- [ ] Read this [`20 Javascript interview questions with code answers.` article](https://medium.com/@fullstacktips/20-javascript-interview-questions-with-code-answers-dd9fb28f3f5a)
+- [ ] Read this article [JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/)
 - [ ] Learn advanced git command
 - [ ] And then I will work on Advanced Algorithms and Data Structures with JavaScript
 - [ ] And then I will work on TypeScript
+- [ ] How to work for-loop with var declaration 
+- [ ] Learn some important design patterns in JavaScript
+
+
+
+
+Regular Tasks
+- [ ] if possible solve 10 katas from [codewars](https://www.codewars.com/dashboard)
+- [ ] contunie course
+- [ ] ...
