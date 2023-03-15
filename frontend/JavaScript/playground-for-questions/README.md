@@ -56,13 +56,14 @@ JavaScript Questions
 
 ### TODOs
 - [x] Learn hoisting and closure in JavaScript
-- [ ] Learn how to work `Event Loop` in JavaScript -> [watch this video](https://www.youtube.com/watch?v=8aGhZQkoFbQ&vl=en)
-- [ ] Learn how to work `Asynchronous Programming` in JavaScript -> [read this article](https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/#:~:text=In%20summary%2C%20asynchronous%20programming%20is,async%2Fawait%2C%20and%20promises.), [this MDN doc article](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
-- [ ] Learn inheritince with prototype in JavaScript
-- [ ] Learn inheritince with ES6 classes(syntax) in JavaScript
-- [ ] Learn `this` keyword in JavaScript
+- [x] Learn how to work `Event Loop` in JavaScript -> [watch this video](https://www.youtube.com/watch?v=8aGhZQkoFbQ&vl=en) and [this video](https://www.youtube.com/watch?v=wHLw0i_9HVU)
+- [x] Learn how to work `Asynchronous Programming` in JavaScript -> [read this article](https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/#:~:text=In%20summary%2C%20asynchronous%20programming%20is,async%2Fawait%2C%20and%20promises.), [this MDN doc article](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
+- [x] Learn inheritince with prototype in JavaScript
+- [x] Learn inheritince with ES6 classes(syntax) in JavaScript
+- [x] Learn `this` keyword in JavaScript
 - [ ] Learn `bind`, `call`, `apply` methods in JavaScript
 - [ ] Learn `new` keyword in JavaScript
+- [ ] Learn microtask and microtask queue in JavaScript 
 - [ ] Learn new ES6 features in JavaScript, [source1-article](https://www.boardinfinity.com/blog/top-10-features-of-es6/#:~:text=ES6%20comes%20with%20significant%20changes,programming%20easier%20and%20more%20fun.), [source2-github-repo](https://github.com/lukehoban/es6features), [source3-w3school](https://www.w3schools.com/js/js_es6.asp)
 - [ ] Learn [all Object Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object) like `Object.create(), Object.assign(), Object.keys(), Object.defineProperty` in JavaScript
 - [ ] Learn [all `Array` Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) in JavaScript
