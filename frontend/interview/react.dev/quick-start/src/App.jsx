@@ -1,10 +1,19 @@
+import MyButton from './components/MyButton';
+import Profile from './components/Profile';
+import ShoppingList from './components/ShoppingList';
+import TicTacToe from './components/TicTacToe';
 import logo from './logo.svg';
 import './styles/App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <h1>Welcome to my app</h1>
+      <TicTacToe />
+      {/* <MyButton /> */}
+      {/* <Profile /> */}
+      {/* <ShoppingList /> */}
+      {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
@@ -17,7 +26,7 @@ function App() {
         >
           Learn React
         </a>
-      </header>
+      </header> */}
     </div>
   );
 }
