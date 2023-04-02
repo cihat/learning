@@ -3,12 +3,12 @@ import Profile from './components/Profile';
 import ShoppingList from './components/ShoppingList';
 import TicTacToe from './components/TicTacToe';
 import logo from './logo.svg';
-import './styles/App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to my app</h1>
+      <h1>Welcome to learn react page, that codebase from react.dev docs</h1>
+      <br />
       <TicTacToe />
       {/* <MyButton /> */}
       {/* <Profile /> */}
