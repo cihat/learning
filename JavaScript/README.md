@@ -1,0 +1,21 @@
+# JavaScript Roadmap from [this site](https://roadmap.sh/javascript)
+
+- [ ] Introduction to JavaScript
+- [ ] All About Variables
+- [ ] Data Types and Data Structures
+- [ ] Type Casting and Coercion
+- [ ] Data Structures - Arrays
+- [ ] Equality Comparison, Equality Algorithm and Identity Operator
+- [ ] Loops and Iteration
+- [ ] Control Flow - If, Else, and Switch Statements
+- [ ] Expressions and Operators
+- [ ] Functions
+- [ ] Strict Mode
+- [ ] Using (this) Keyword
+- [ ] Asynchronous JavaScript
+- [ ] Working with API's
+- [ ] Classes
+- [ ] Iterators and Generators
+- [ ] Modules in JavaScript
+- [ ] Memory Management
+- [ ] Using Chrome DevTools
