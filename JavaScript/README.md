@@ -1,6 +1,6 @@
 # JavaScript Roadmap from [this site](https://roadmap.sh/javascript)
 
-- [ ] Introduction to JavaScript
+- [ ] Introduction to JavaScript - **IN PROGRESS**
 - [ ] All About Variables
 - [ ] Data Types and Data Structures
 - [ ] Type Casting and Coercion
