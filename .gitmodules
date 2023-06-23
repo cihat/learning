@@ -13,3 +13,6 @@
 [submodule "frontend/JavaScript/interview-questions"]
 	path = frontend/JavaScript/interview-questions
 	url = git@cihat-salik.github.com:BomBoch/javascript-interview-questions.git
+[submodule "become-ios-dev"]
+	path = become-ios-dev
+	url = git@github.com:cihat/become-ios-dev.git
