@@ -16,3 +16,6 @@
 [submodule "become-ios-dev"]
 	path = become-ios-dev
 	url = git@github.com:cihat/become-ios-dev.git
+[submodule "go/source-code"]
+	path = go/source-code
+	url = git@github.com:golang/go.git
