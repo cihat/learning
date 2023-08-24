@@ -19,7 +19,7 @@ func main() {
 	// examples.Func()
 	// examples.MultipleReturnValues()
 	// examples.Closures()
-	// examples.Pointer()
+	// examples.Pointer(
 	// examples.Struct()
 	examples.Methods()
 }
