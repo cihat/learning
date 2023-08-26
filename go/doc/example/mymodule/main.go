@@ -21,5 +21,10 @@ func main() {
 	// examples.Closures()
 	// examples.Pointer(
 	// examples.Struct()
-	examples.Methods()
+	// examples.Methods()
+	// examples.Interfaces()
+	// examples.StructEmbedding()
+	// examples.Generics()
+	// examples.Errors()
+	examples.Goroutines()
 }
