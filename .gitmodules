@@ -19,3 +19,6 @@
 [submodule "go/source-code"]
 	path = go/source-code
 	url = git@github.com:golang/go.git
+[submodule "go/projects/go-daemon4"]
+	path = go/projects/go-daemon4
+	url = git@github.com:cihat/go-daemon.git
