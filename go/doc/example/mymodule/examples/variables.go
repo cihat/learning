@@ -5,7 +5,7 @@ import (
 	"reflect"
 )
 
-func main() {
+func Variables() {
 	var a = "initial"
 
 	var b, c string
