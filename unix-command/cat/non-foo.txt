@@ -1,0 +1,13 @@
+// Copyright 2017 Bill. All rights reserved.
+// created by bill on 10 Oct, 2017
+
+
+import (
+)
+
+const VERSION = "1.0.1"
+
+    log.Println("bar!", VERSION)
+}
+
+}
