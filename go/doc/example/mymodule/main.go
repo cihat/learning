@@ -26,5 +26,6 @@ func main() {
 	// examples.StructEmbedding()
 	// examples.Generics()
 	// examples.Errors()
-	examples.Goroutines()
+	// examples.Goroutines()
+	examples.Color()
 }
