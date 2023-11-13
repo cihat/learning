@@ -22,3 +22,6 @@
 [submodule "go/projects/go-daemon"]
 	path = go/projects/go-daemon
 	url = git@github.com:cihat/go-daemon.git
+[submodule "go/projects/jump"]
+	path = go/projects/jump
+	url = git@github.com:cihat/jump.git
