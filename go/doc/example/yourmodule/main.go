@@ -1,6 +1,9 @@
 package main
 
-// "mymodule/testpackage"
+import (
+	"mymodule/examples"
+	// "mymodule/testpackage"
+)
 
 func main() {
 	// examples.C()
@@ -26,9 +29,5 @@ func main() {
 	// examples.Goroutines()
 
 	// examples.Color()
-
-	// testpackage.PrintHello()
-
-	// examples.Channels()
-
+	examples.Channels()
 }
