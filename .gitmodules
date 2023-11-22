@@ -25,3 +25,6 @@
 [submodule "go/projects/jump"]
 	path = go/projects/jump
 	url = git@github.com:cihat/jump.git
+[submodule "rust"]
+	path = rust
+	url = git@github.com:cihat/rust-challenge.git
