@@ -58,3 +58,10 @@ I => go to start line end change to insert mode
 
 dw => delete word
 d$ || D => Delete right of the cursor
+Ctrl + u => delete all line
+Ctrl + w => delete a word
+
+## Window operations
+ Ctrl+w + s => Creating horizontal window
+ Ctrl+w + v => Creting vertical window
+
