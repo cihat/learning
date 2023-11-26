@@ -7,22 +7,28 @@ C + r => Redo
 
 
 
-
+## Scrolling
 - C + d => like scroll to bottom in the middle
 - C + u => like scroll to top in the middle
-
-
-
-- J => move to below line to current line
-
-
-shortcut in the neo-vim
-D -> delete the file or folder 
-
-## For Scroll
+Ctrl-y Moves screen up one line
+Ctrl-e Moves screen down one line
+Ctrl-u Moves cursor & screen up ½ page
+Ctrl-d Moves cursor & screen down ½ page
+Ctrl-b Moves screen up one page, cursor to last line
+Ctrl-f Moves screen down one page, cursor to first line
+Ctrl-y and Ctrl-e only change the cursor position if it would be moved off screen.
 zz => center the page with the pointer if on bottom or top 
 zb => bottom
 zt = top
+
+## Clipboard Actions
+Press d to cut for selected line/word with V/v;
+yy -> copy the cursor line
+
+- J => move to below line to current line
+
+shortcut in the neo-vim
+D -> delete the file or folder 
 
 ## Movement cursor
 0 || $^ => move to end of the line
