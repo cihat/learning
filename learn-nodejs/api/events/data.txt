@@ -1,0 +1,57 @@
+const fs = require('fs');
+ 
+const dataStream = fs.createReadStream('data.txt', 'utf-8');
+ 
+dataStream.on('readable', () => {
+console.log(dataStream.read());
+});
+
+dataStream.on('end', () => console.log('File Read Completed'));const fs = require('fs');
+ 
+const dataStream = fs.createReadStream('data.txt', 'utf-8');
+ 
+dataStream.on('readable', () => {
+console.log(dataStream.read());
+});
+
+dataStream.on('end', () => console.log('File Read Completed'));const fs = require('fs');
+ 
+const dataStream = fs.createReadStream('data.txt', 'utf-8');
+ 
+dataStream.on('readable', () => {
+console.log(dataStream.read());
+});
+
+dataStream.on('end', () => console.log('File Read Completed'));const fs = require('fs');
+ 
+const dataStream = fs.createReadStream('data.txt', 'utf-8');
+ 
+dataStream.on('readable', () => {
+console.log(dataStream.read());
+});
+
+dataStream.on('end', () => console.log('File Read Completed'));const fs = require('fs');
+ 
+const dataStream = fs.createReadStream('data.txt', 'utf-8');
+ 
+dataStream.on('readable', () => {
+console.log(dataStream.read());
+});
+
+dataStream.on('end', () => console.log('File Read Completed'));const fs = require('fs');
+ 
+const dataStream = fs.createReadStream('data.txt', 'utf-8');
+ 
+dataStream.on('readable', () => {
+console.log(dataStream.read());
+});
+
+dataStream.on('end', () => console.log('File Read Completed'));const fs = require('fs');
+ 
+const dataStream = fs.createReadStream('data.txt', 'utf-8');
+ 
+dataStream.on('readable', () => {
+console.log(dataStream.read());
+});
+
+dataStream.on('end', () => console.log('File Read Completed'));
