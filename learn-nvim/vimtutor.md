@@ -53,8 +53,6 @@ NOTE: The cursor keys should also work.  But using hjkl you will be able to
   1. Press the <ESC> key (to make sure you are in Normal mode).
 
   2. Type:	:q! <ENTER>.
-     This exits the editor, DISCARDING any changes you have made.
-
   3. Get back here by executing the command that got you into this tutor. That
      might be:  vimtutor <ENTER>
 
