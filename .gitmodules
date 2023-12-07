@@ -28,3 +28,6 @@
 [submodule "rust"]
 	path = rust
 	url = git@github.com:cihat/rust-challenge.git
+[submodule "computer-science/DataStructure"]
+	path = computer-science/DataStructure
+	url = git@github.com:cihat/DataStructure.git
