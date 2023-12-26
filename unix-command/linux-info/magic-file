@@ -1,0 +1,4 @@
+echo $?
+echo "Hello Worlds" > magic-file
+echo "hellow words2" >> magic-file
+cat|more|less magic-file
