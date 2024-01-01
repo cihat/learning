@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Custom Elements</title>
+  <style>
+    h3 {
+      color: purple;
+    }
+  </style>
+</head>
+
+<body>
+  <h3>Some Custom Web Components</h3>
+
+  <user-card name="Cihat Salik" avatar="
+    https://avatars.githubusercontent.com/u/57585087?s=400&u=f4036a794bf8ddf4ad2bcff7bd7fc2b67feb2c71&v=4">
+    Hello
+    <div slot="email">test@test.com</div>
+    <div slot="phone">+9043442334234</div>
+  </user-card>
+  <user-card name="Cihat Salik"
+    avatar="https://avatars.githubusercontent.com/u/57585087?s=400&u=f4036a794bf8ddf4ad2bcff7bd7fc2b67feb2c71&v=4">
+    <div slot="email">test@test.com</div>
+    <div slot="phone">test@test.com</div>
+  </user-card>
+  <user-card name="Cihat Salik"
+    avatar="https://avatars.githubusercontent.com/u/57585087?s=400&u=f4036a794bf8ddf4ad2bcff7bd7fc2b67feb2c71&v=4">
+    <div slot="email">test@test.com</div>
+    <div slot="phone">test@test.com</div>
+  </user-card>
+
+  <script src="./userCard.js"></script>
+</body>
+
+</html>
