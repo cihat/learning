@@ -98,6 +98,10 @@ gc => command out/in when selected lines
 
 H => show/hide some hide files/folder
 
+## Open file tree
+
+sf => open file tree
+
 ## noise tooltip about cursor pointer token
 
 Shift + K => tooltip info
@@ -105,3 +109,38 @@ Shift + K => tooltip info
 ## search all project with grep
 
 <leader + /> ==> for search all project a word
+
+## Some good tools
+
+rg -> for searching files quickly(ripgrep)
+fd -> for searching for folder or files names
+
+## update variable name with increname
+
+<leader c r > => update all files variable names
+
+## Open Terminal
+
+Ctrl / or <leader f t > => open terminal and close terminal is esc x2 => open again <leader f t>
+
+## Go to defination
+
+gr => go to defination
+
+<leader>cl Lsp Info n
+gd Goto Definition n
+gr References n
+gD Goto Declaration n
+gI Goto Implementation n
+gy Goto T[y]pe Definition n
+K Hover n
+gK Signature Help n
+<c-k> Signature Help i
+<leader>ca Code Action n, v
+<leader>cA Source Action n
+<leader>acr Rename n
+
+## Replace using regex expressions
+
+Explanation of the pattern
+:s/PATTERN/REPLACEMENT/
