@@ -142,5 +142,9 @@ gK Signature Help n
 
 ## Replace using regex expressions
 
-Explanation of the pattern
 :s/PATTERN/REPLACEMENT/
+
+## go back and go forward
+
+Ctrl + o -> go back
+Ctrl + shift + i -> go forward
