@@ -96,6 +96,7 @@ gc => command out/in when selected lines
 
 ## Sidebar editor
 
+leader + e => toggle sidebar
 H => show/hide some hide files/folder
 
 ## Open file tree
