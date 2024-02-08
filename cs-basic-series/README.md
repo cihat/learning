@@ -605,9 +605,13 @@ if you can identify the runtime complexity of different algorithms. It's a super
 
 ## Data Structures
 
+- [x] Currently working on this playlist.
+[Pointers in C/C++ (video)](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
+
+
 - ### Arrays
         👉🏻 I am here right now. I'm watching videos and taking notes. I'm not implementing anything yet.
-    - [-] About Arrays:
+    - [x] About Arrays:
     	- [Arrays CS50 Harvard University](https://www.youtube.com/watch?v=tI_tIZFyKBw&t=3009s)
         - [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
         - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
