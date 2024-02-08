@@ -6,14 +6,8 @@ you can taste it before you buy it
 This is a repository for learning new things. It is a place to store code and notes for future reference.
 
 
-...
+### UPDATES
+Thu Feb 8 23:22 UTC+3 2024
 
-<!-- ## List of All Roadmaps -->
-<!-- - [ ] [1. JavaScript Developer - **IN PROGRESS**](https://roadmap.sh/frontend) -->
-<!-- - [ ] [2. TypeScript Developer](https://roadmap.sh/typescript) -->
-<!-- - [ ] [3. Frontend Developer](https://roadmap.sh/frontend)
-- [ ] [4. Node.js Developer](https://roadmap.sh/nodejs) -->
-<!-- - [ ] [1. Backend Developer](https://roadmap.sh/backend)
-- [ ] [2. DevOps](https://roadmap.sh/devops)
-- [ ] [3. C++ Developer](https://roadmap.sh/cpp)
-- [ ] [4. Computer Science](https://roadmap.sh/computer-science) -->
+I don't want another bitten apple anymore, from now on I'm going to work on my basic deficiencies and that is Computer Science. 
+[More details in this blog post](https://cihat.dev/2024/cs-basics-series)
