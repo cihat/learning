@@ -1,0 +1,38 @@
+{
+  "name": "type-challenges",
+  "version": "0.0.0",
+  "private": true,
+  "packageManager": "pnpm@8.12.1",
+  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/antfu/type-challenges.git",
+  "scripts": {
+    "readme": "esno ./scripts/readme.ts",
+    "build": "esno ./scripts/build.ts",
+    "generate": "esno ./scripts/generate-play.ts",
+    "lint": "eslint .",
+    "translate": "esno ./scripts/translate-cli.ts",
+    "utils:release": "pnpm -C utils release"
+  },
+  "dependencies": {
+    "esno": "^4.0.0",
+    "fast-glob": "^3.3.2",
+    "fs-extra": "^11.2.0",
+    "js-yaml": "^4.1.0",
+    "lz-string": "^1.5.0"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^2.6.0",
+    "@type-challenges/utils": "workspace:*",
+    "@types/fs-extra": "^11.0.4",
+    "@types/js-yaml": "^4.0.9",
+    "@types/lz-string": "^1.5.0",
+    "@types/node": "^20.10.5",
+    "@types/prompts": "^2.4.9",
+    "eslint": "^8.56.0",
+    "picocolors": "^1.0.0",
+    "prompts": "^2.4.2",
+    "typescript": "^5.3.3",
+    "utility-types": "^3.10.0"
+  }
+}
