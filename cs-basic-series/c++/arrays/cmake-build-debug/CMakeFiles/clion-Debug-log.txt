@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /Users/cihatsalik/github/source/learning/cs-basic-series/c++/arrays Select CMakeLists.txt
